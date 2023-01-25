@@ -27,7 +27,6 @@ namespace Pisana_provjera_4
 
             }
 
-            Console.WriteLine(prosjek);
             Console.WriteLine(bliskiClan);
             Console.ReadKey();
         }
